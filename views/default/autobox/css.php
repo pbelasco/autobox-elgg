@@ -54,7 +54,7 @@ ul.autobox-hldr li.bit-box {
   -moz-border-radius: 6px;
   -webkit-border-radius: 6px;
   border-radius: 6px;
-  border: 1px solid #cad8f3;
+  border: 1px solid #cae8f3;
   background: #dee7f8;
   padding: 1px 5px 2px;
   margin-bottom: 3px;
@@ -87,5 +87,5 @@ ul.autobox-hldr li.bit-box-focus a.closebutton:hover {
 
 .matching {
 font-weight:bold;
-text-decoration:underline;
+text-decoration:none;
 }
